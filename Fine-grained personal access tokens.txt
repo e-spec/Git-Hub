@@ -1,0 +1,15 @@
+Fine-grained personal access tokens:
+
+How to get there:
+
+Option 1 — Fix it now with a Personal Access Token (fastest)
+Step 1: Create a token
+Open GitHub → Settings
+Go to Developer settings
+Click Personal access tokens
+Choose Tokens (classic)
+
+
+TOKEN below:
+
+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
